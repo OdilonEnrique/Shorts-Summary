@@ -2,7 +2,7 @@
 # NLW AI || Foundations - `Shorts Summary`
 
 <div align="center">
-   <img alt="Landing do projeto" src=".github/assets/preview.png" width="80%"/>
+   <img alt="Landing do projeto" src="./public/preview.png" width="80%"/>
 </div>
 <br>
 
